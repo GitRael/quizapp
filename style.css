@@ -65,6 +65,7 @@ header {
     border: 0;
     border-radius: 999px;
     padding: 4px;
+    display: flex;
 }
 
 .tema button div {
@@ -92,10 +93,6 @@ main {
 .boas_vindas h1 strong {
     font-weight: 500;
 }
-
-
-/* PAREI NO MINUTO 46:18 DO VIDEO!*/
-
 
 .boas_vindas p {
     color: var(--secondary-text-color);
@@ -147,7 +144,7 @@ main {
     background: var(--bg-javascript);
 }
 
-.boao_acessibilidade div{
+.botao_acessibilidade div{
     background: var(--bg-acessibilidade);
 }
 
